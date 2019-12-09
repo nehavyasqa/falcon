@@ -1,7 +1,6 @@
 <?php
 
 /**
- * @link : http://www.example.com
  * @category : FalconSDK
  * @package : FalconException
  * @author : Falcon Team

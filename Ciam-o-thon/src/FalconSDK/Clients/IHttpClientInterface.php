@@ -1,11 +1,10 @@
 <?php
 
 /**
- * @link : http://www.example.com
  * @category : Clients
  * @package : IHttpClientInterface
- * @author : LoginRadius Team
- * @version : 10.0.0
+ * @author : Falcon  Team
+ * @version : 1.0.0
  * @license : https://opensource.org/licenses/MIT
  */
 

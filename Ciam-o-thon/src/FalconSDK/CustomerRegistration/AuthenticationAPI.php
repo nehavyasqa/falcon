@@ -1,9 +1,9 @@
 <?php
  /**
  * @category            : CustomerRegistration
- * @link                : http://www.loginradius.com
  * @package             : AuthenticationAPI
- * @author              : LoginRadius Team
+ * @author              : Falcon  Team
+ * @version             : 1.0.0
  * @license             : https://opensource.org/licenses/MIT
  */
 

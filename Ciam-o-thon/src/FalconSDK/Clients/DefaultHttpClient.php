@@ -1,7 +1,6 @@
 <?php
 
 /**
- * @link : http://www.example.com
  * @category : Clients
  * @package : DefaultHttpClient
  * @author : Falcon Team
